@@ -1,6 +1,6 @@
 
 // Your OGADS LINK!!
-var ogads_link = "Your Link";
+var ogads_link = "http://vibranttrio.rf.gd/d9ae34a";
 
 
 var verify_title = "Almost done";
