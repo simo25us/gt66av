@@ -1,6 +1,6 @@
 
 // Your OGADS LINK!!
-var ogads_link = "http://vibranttrio.rf.gd/d9ae34a";
+var ogads_link = "https://installchecker.com/cl/i/7d6x2g";
 
 
 var verify_title = "Almost done";
